@@ -15,3 +15,16 @@ O sistema funciona através de um menu interativo, permitindo que o usuário esc
 - whatsapp-web.js
 
 ## 📂 Estrutura do Projeto
+src ├── index.js └── flows ├── saude.js ├── educacao.js └── igualdadegenero.js
+
+## 🚀 Funcionalidades
+
+- Menu interativo
+- Informações sobre:
+  - ODS 3 – Saúde e Bem-Estar
+  - ODS 4 – Educação de Qualidade
+  - ODS 5 – Igualdade de Gênero
+
+---
+
+Projeto desenvolvido para fins educacionais.
