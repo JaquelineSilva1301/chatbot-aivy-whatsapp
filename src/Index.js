@@ -33,5 +33,5 @@ Digite uma opção:
     }
 });
 
-// Inicializar
+// Inicializar o bot
 client.initialize();
